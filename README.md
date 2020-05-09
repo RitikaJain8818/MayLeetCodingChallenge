@@ -1,4 +1,5 @@
 # [MayLeetCodingChallenge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/)
+[Leetcode Profile](https://leetcode.com/ritikajain/)
 | Problem Name | Difficulty(Relative to me) | Java | Time Complexity | Space Complexity | Data Structure Used | Algorithm Used |
 | --- | --- | --- | --- | --- | --- | --- |
 | [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | Easy | [Code](https://github.com/RitikaJain8818/MayLeetCodingChallenge/blob/master/Week%201/First%20Bad%20Version.java) | O(log N) | O(1) | NA | Binary Search |
